@@ -39,7 +39,7 @@ Página com informações sobre o universo utilizada para aplicar conceitos de S
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://efficient-sloth-d85.notion.site/SPA-Universe-5f75e94ba7ce4292a06905eb3417420c>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/Q3937Mm0gYTuHoQhx74m7d/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?type=design&node-id=104-48&mode=design&t=0XuyLejC8j5ygsex-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
